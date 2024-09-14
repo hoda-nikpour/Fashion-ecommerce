@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": 10,
+      "name": "Blouse 1",
+      "category": "Blouses",
+      "image": "/image/shirt2.jpg",
+      "hoverImage": "/image/shirt1.jpg",
+      "size": ["S", "M", "L"],
+      "color": ["red", "blue"],
+      "description": "Description for product 1",
+      "price": 29.99
+    },
+    {
+      "id": 11,
+      "name": "Blouse 2",
+      "category": "Blouses",
+      "image": "/image/shirt4.jpg",
+      "hoverImage": "/image/shirt3.jpg",
+      "size": ["S", "M", "L"],
+      "color": ["red", "blue"],
+      "description": "Description for product 1",
+      "price": 29.99
+    },
+    {
+      "id": 12,
+      "name": "Blouse 3",
+      "category": "Blouses",
+      "image": "/image/shirt6.jpg",
+      "hoverImage": "/image/shirt5.jpg",
+      "size": ["S", "M", "L"],
+      "color": ["red", "blue"],
+      "description": "Description for product 1",
+      "price": 29.99
+    },
+    {
+      "id": 20,
+      "name": "Trousers 1",
+      "category": "Trousers",
+      "image": "/image/pants1.jpg",
+      "hoverImage": "/image/pants2.jpg",
+      "size": ["S", "M", "L"],
+      "color": ["green", "yellow"],
+      "description": "Description for product 2",
+      "price": 39.99
+    },
+    {
+      "id": 21,
+      "name": "Trousers 2",
+      "category": "Trousers",
+      "image": "/image/pants3.jpg",
+      "hoverImage": "/image/pants4.jpg",
+      "size": ["S", "M", "L"],
+      "color": ["green", "yellow"],
+      "description": "Description for product 2",
+      "price": 39.99
+    },
+    
+    {
+      "id": 30,
+      "name": "Dress 1",
+      "category": "Dresses",
+      "image": "/image/dress10.jpg",
+      "hoverImage": "/image/dress2.jpg",
+      "size": ["S", "M", "L"],
+      "color": ["green", "yellow"],
+      "description": "Description for product 3",
+      "price": 19.99
+    },
+    {
+      "id": 31,
+      "name": "Dress 2",
+      "category": "Dresses",
+      "image": "/image/dress7.jpg",
+      "hoverImage": "/image/dress3.jpg",
+      "size": ["S", "M", "L"],
+      "color": ["green", "yellow"],
+      "description": "Description for product 3",
+      "price": 19.99
+    },
+    {
+      "id": 32,
+      "name": "Dress 3",
+      "category": "Dresses",
+     "image": "/image/dress6.jpg",
+      "hoverImage": "/image/dress5.jpg",
+      "size": ["S", "M", "L"],
+      "color": ["green", "yellow"],
+      "description": "Description for product 3",
+      "price": 19.99
+    },
+    {
+      "id": 40,
+      "name": "Set 1",
+      "category": "Sets",
+      "image": "https://i.postimg.cc/zX8XmLg1/s1.png",
+      "hoverImage": "https://i.postimg.cc/zX8XmLg1/s1.png",
+      "size": ["S", "M", "L"],
+      "color": ["green", "yellow"],
+      "description": "Description for product 4",
+      "price": 49.99
+    },
+    {
+      "id": 41,
+      "name": "Set 2",
+      "category": "Sets",
+      "image": "https://i.postimg.cc/T3PdwZ07/s2.png",
+      "hoverImage": "https://i.postimg.cc/T3PdwZ07/s2.png",
+      "size": ["S", "M", "L"],
+      "color": ["green", "yellow"],
+      "description": "Description for product 4",
+      "price": 49.99
+    },
+    {
+      "id": 42,
+      "name": "Set 3",
+      "category": "Sets",
+      "image": "https://i.postimg.cc/yNg7hcw0/s3.png",
+      "hoverImage": "https://i.postimg.cc/yNg7hcw0/s3.png",
+      "size": ["S", "M", "L"],
+      "color": ["green", "yellow"],
+      "description": "Description for product 4",
+      "price": 49.99
+    },
+    {
+      "id": 43,
+      "name": "Set 4",
+      "category": "Sets",
+      "image": "https://i.postimg.cc/TYdG7Zzd/s4.png",
+      "hoverImage": "https://i.postimg.cc/TYdG7Zzd/s4.png",
+      "size": ["S", "M", "L"],
+      "color": ["green", "yellow"],
+      "description": "Description for product 4",
+      "price": 49.99
+    },
+    {
+      "id": 44,
+      "name": "Set 5",
+      "category": "Sets",
+      "image": "https://i.postimg.cc/2yzptZXc/s5.png",
+      "hoverImage": "https://i.postimg.cc/2yzptZXc/s5.png",
+      "size": ["S", "M", "L"],
+      "color": ["green", "yellow"],
+      "description": "Description for product 4",
+      "price": 49.99
+    }
+  ]
+}
